@@ -1,0 +1,1 @@
+{"compilerOptions":{"allowImportingTsExtensions":true,"forceConsistentCasingInFileNames":true,"module":"NodeNext","moduleResolution":"NodeNext","noEmit":true,"skipLibCheck":true,"strict":true,"target":"ES2024"},"include":["main.ts","dev.ts","src/**/*.ts"]}
